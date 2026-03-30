@@ -39,3 +39,11 @@ This is a fictional portfolio project created for analytical and visualization p
 
 ## Author
 Francesc Cebrián Ruiz
+
+# SoulScents Analytics | Power BI
+
+![Dashboard Preview](images/dashboard-preview.png)
+
+## Overview
+...
+
